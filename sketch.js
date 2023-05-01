@@ -13,7 +13,7 @@ function setup() {
     video.hide();
 
     thresholdSlider = createSlider(0, 255, 50);
-    thresholdSlider.position(20, 20);
+    thresholdSlider.position(250, 700);
 
     grid = new Grid(640,480);
 }

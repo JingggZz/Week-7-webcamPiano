@@ -1,0 +1,22 @@
+html {
+  background-color:#000000;
+}
+canvas {
+  display:flex;
+  margin:auto;
+}
+
+nav{
+  padding:10px 3%;
+}
+
+a{
+  color:aliceblue;
+}
+
+header{
+  font-size: 20px;
+  color:aliceblue;
+  text-align: center;
+  margin-bottom: 50px;
+}
